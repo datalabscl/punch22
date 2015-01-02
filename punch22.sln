@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "punch22", "punch22\punch22.csproj", "{182B5F9B-04E7-4481-BF32-75C33D156F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182B5F9B-04E7-4481-BF32-75C33D156F8F}.Debug|x86.ActiveCfg = Debug|x86
+		{182B5F9B-04E7-4481-BF32-75C33D156F8F}.Debug|x86.Build.0 = Debug|x86
+		{182B5F9B-04E7-4481-BF32-75C33D156F8F}.Release|x86.ActiveCfg = Release|x86
+		{182B5F9B-04E7-4481-BF32-75C33D156F8F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = punch22\punch22.csproj
+	EndGlobalSection
+EndGlobal
